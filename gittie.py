@@ -1,6 +1,12 @@
 <<<<<<< HEAD
 print("Hello, I'm Gittie!".")
 
+
+def introduce(name):
+    '''This function introduces the user'''
+    print("Hello! My name is " + str(name))
+
+
 def joke():
     print("joke")
 =======
