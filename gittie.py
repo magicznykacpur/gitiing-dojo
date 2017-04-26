@@ -9,10 +9,6 @@ def introduce(name):
 def joke():
     print("joke")
 
-def shout():
-    print("shout")
-
-
 def add(li):
     '''This function adds stuff'''
     li_2 = []
