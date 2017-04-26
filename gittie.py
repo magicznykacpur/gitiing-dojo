@@ -6,6 +6,9 @@ def joke():
 =======
 print("Hello, I'm Gittie!")
 
+def shout():
+    print("shout")
+
 
 def add(li):
     '''This function adds stuff'''
